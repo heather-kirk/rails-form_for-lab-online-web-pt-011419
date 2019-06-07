@@ -1,4 +1,4 @@
-hanks hahaLab# `form_for` Lab
+Thanks hahaLab# `form_for` Lab
 
 ## Objectives
 
